@@ -44,7 +44,7 @@
 ## 安装
 
 ```bash
-npx skills add Panmax/shiyuzhu-skill
+npx skills add nuwa-skills/shiyuzhu-skill
 ```
 
 ---
@@ -88,7 +88,7 @@ shiyuzhu-skill/
 
 ## 更多 Skill
 
-更多人物 Skill 请查看 [Awesome 女娲.skill](https://github.com/Panmax/awesome-nuwa)。
+更多人物 Skill 请查看 [Awesome 女娲.skill](https://github.com/nuwa-skills/awesome-nuwa)。
 
 ---
 
