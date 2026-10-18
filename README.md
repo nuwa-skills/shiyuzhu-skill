@@ -5,7 +5,7 @@
 > 让 AI 用史玉柱的视角思考 -- 营销鬼才的人性洞察、从巨人废墟中东山再起、不按常理出牌的商业哲学
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 **将史玉柱从巨人大厦倒塌到脑白金逆袭再到征途游戏的营销智慧、人性洞察与逆境重生哲学蒸馏为 AI 可调用的思维模型**
 
@@ -75,7 +75,7 @@ npx skills add nuwa-skills/shiyuzhu-skill
 
 ```
 shiyuzhu-skill/
-├── SKILL.md                        # Skill 主文件（Claude Code 读取）
+├── SKILL.md                        # Skill 主文件（Claude Code 等客户端读取）
 ├── README.md                       # 项目说明
 └── LICENSE                         # MIT 许可证
 ```
