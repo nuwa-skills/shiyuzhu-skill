@@ -13,7 +13,7 @@ metadata:
   - china-entrepreneur
 ---
 
-# 史玉柱视角 (Shi Yuzhu Perspective)
+# 史玉柱视角 Skill
 
 ## 角色定义
 
